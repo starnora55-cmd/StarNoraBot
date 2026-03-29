@@ -1,8 +1,8 @@
 {
-  "name": "Knight Bot MINI",
-  "description": "WhatsApp MD bot (Baileys)",
+  "name": "StarNora Bot MINI",
+  "description": "WhatsApp MD bot (Gumbos)",
   "repository": "",
-  "keywords": ["whatsapp", "baileys", "bot", "node"],
+  "keywords": ["whatsapp", "Gumbos", "bot", "node"],
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
@@ -10,7 +10,7 @@
   ],
   "env": {
     "SESSION_ID": {
-      "description": "KnightBot session string (e.g. KnightBot!<base64_compressed_data>)",
+      "description": "StarNoraBot session string (e.g. StarNoraBot!<base64_compressed_data>)",
       "required": false,
       "value": ""
     }
