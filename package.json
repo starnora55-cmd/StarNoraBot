@@ -1,5 +1,5 @@
 {
-    "name": "whatsapp-md-bot",
+    "name": "StarNora-md-bot",
     "version": "1.0.0",
     "description": "WhatsApp MD-Style Multi-Command Bot with Baileys",
     "main": "index.js",
@@ -11,12 +11,12 @@
     },
     "keywords": [
         "whatsapp bot",
-        "Knight Bot Mini",
+        "StarNora Bot Mini",
         "bot",
-        "baileys",
+        "Gumbos",
         "md"
     ],
-    "author": "Your Name",
+    "author": "Arnold Armstrong Gumbo",
     "license": "MIT",
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
