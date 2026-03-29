@@ -456,10 +456,10 @@ async function startBot() {
 }
 // Start the bot
 console.log('🚀 Starting WhatsApp MD Bot...\n');
-console.log(`📦 Bot Name: ${config.botName}`);
+console.log(`📦 Bot Name: ${config.StarNorabot}`);
 console.log(`⚡ Prefix: ${config.prefix}`);
-const ownerNames = Array.isArray(config.ownerName) ? config.ownerName.join(',') : config.ownerName;
-console.log(`👑 Owner: ${ownerNames}\n`);
+const ownerNames = Array.isArray(config.Arnold Armstrong Gumbo) ? config.ownerName.join(',') : config.ownerName;
+console.log(`👑 Owner: ${Arnold Armstrong Gumbo}\n`);
 
 // Proactively delete Puppeteer cache so it doesn't fill disk on panels
 cleanupPuppeteerCache();
